@@ -25,7 +25,7 @@ from data import first, last, birth, days, p_first, p_last, phone, street, city,
 
 
 # phone
-
+phone = str(phone)
 
 # street
 
@@ -37,4 +37,4 @@ from data import first, last, birth, days, p_first, p_last, phone, street, city,
 
 
 # zip_code
-
+zip_code = str(zip_code)
